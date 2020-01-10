@@ -24,14 +24,15 @@ Notes
 -----
 
 Parameter 7 must match a model on the list, though it is not case sensitive.
-Currently this script only supports
-*Brother HL-3170CDW
-*Borther HL-5450DN
-*Brother HL-L5100
-*HP Color Laserjet M452DN
-*HP Color Laserjet CP5520
-*Sharp MX-C312 Copier
-*Sharp MX-M754 Copier
-*Sharp MX-905 Copier
-*Sharp MX-5070 Copier
-*Sharp MX-6070 Copier
+
+Currently this script only supports:
+-Brother HL-3170CDW
+-Borther HL-5450DN
+-Brother HL-L5100
+-HP Color Laserjet M452DN
+-HP Color Laserjet CP5520
+-Sharp MX-C312 Copier
+-Sharp MX-M754 Copier
+-Sharp MX-905 Copier
+-Sharp MX-5070 Copier
+-Sharp MX-6070 Copier
